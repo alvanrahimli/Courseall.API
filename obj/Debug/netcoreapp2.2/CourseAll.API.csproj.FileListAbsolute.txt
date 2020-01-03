@@ -1,0 +1,14 @@
+/home/alvan/Desktop/CourseAll.API/bin/Debug/netcoreapp2.2/CourseAll.API.deps.json
+/home/alvan/Desktop/CourseAll.API/bin/Debug/netcoreapp2.2/CourseAll.API.runtimeconfig.json
+/home/alvan/Desktop/CourseAll.API/bin/Debug/netcoreapp2.2/CourseAll.API.runtimeconfig.dev.json
+/home/alvan/Desktop/CourseAll.API/bin/Debug/netcoreapp2.2/CourseAll.API.dll
+/home/alvan/Desktop/CourseAll.API/bin/Debug/netcoreapp2.2/CourseAll.API.pdb
+/home/alvan/Desktop/CourseAll.API/obj/Debug/netcoreapp2.2/CourseAll.API.csprojAssemblyReference.cache
+/home/alvan/Desktop/CourseAll.API/obj/Debug/netcoreapp2.2/CourseAll.API.csproj.CoreCompileInputs.cache
+/home/alvan/Desktop/CourseAll.API/obj/Debug/netcoreapp2.2/CourseAll.API.RazorAssemblyInfo.cache
+/home/alvan/Desktop/CourseAll.API/obj/Debug/netcoreapp2.2/CourseAll.API.RazorAssemblyInfo.cs
+/home/alvan/Desktop/CourseAll.API/obj/Debug/netcoreapp2.2/CourseAll.API.AssemblyInfoInputs.cache
+/home/alvan/Desktop/CourseAll.API/obj/Debug/netcoreapp2.2/CourseAll.API.AssemblyInfo.cs
+/home/alvan/Desktop/CourseAll.API/obj/Debug/netcoreapp2.2/CourseAll.API.RazorTargetAssemblyInfo.cache
+/home/alvan/Desktop/CourseAll.API/obj/Debug/netcoreapp2.2/CourseAll.API.dll
+/home/alvan/Desktop/CourseAll.API/obj/Debug/netcoreapp2.2/CourseAll.API.pdb

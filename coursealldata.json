@@ -1,0 +1,36 @@
+{
+	"Name": "LIB",
+	"Email": "LIB@lib.edu.az",
+	"Phone": "+994513459612",
+	"Password": "libschool123",
+	"Address": "Caspian plaza, 14cu mertebe"
+}
+{
+	"Name": "Barattson",
+	"Email": "barattson@gmail.com",
+	"Phone": "+9947512367",
+	"Password": "barattsonschool123",
+	"Address": "Caspian plaza, 7ci mertebe, 1ci korpus"
+}
+//token-for-LIB
+{
+  "token": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIyIiwidW5pcXVlX25hbWUiOiJsaWIiLCJyb2xlIjoiY29tcGFueSIsIm5iZiI6MTU2NzIzODkyOCwiZXhwIjoxNTY5ODMwOTI4LCJpYXQiOjE1NjcyMzg5Mjh9.v7bBZYCWkYGvfRUUZe7zwPqOM8rWY4byVwoaB83oVbu90P32QRFprubKP7HF_dE_PBwvNraSzYqOdPk85UlSqg"
+}
+//----------------------------------------------------------------
+{
+	"Name": "AliRahimli",
+	"Email": "AliRahimli@yandex.com",
+	"Phone": "+994772204323",
+	"Password": "01122001Ali"
+}
+{
+	"Name": "AlvanRahimli",
+	"Email": "AlvanRahimli@yandex.com",
+	"Phone": "+994772204323",
+	"Password": "01122001Alvan"
+}
+
+//token-for-Alvan
+{
+  "token": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIxIiwidW5pcXVlX25hbWUiOiJhbHZhbnJhaGltbGkiLCJyb2xlIjoidXNlciIsIm5iZiI6MTU2NzIzODA3NSwiZXhwIjoxNTY5ODMwMDM4LCJpYXQiOjE1NjcyMzgwNzV9.1mdHQV91ZMlsC4cB99k2aesue1R9T1SQnN72LGlCZ2r8n-5VVeppYfivQ8mGIj4cAUBAmQOh9ZWtPVViLMVt2A"
+}
